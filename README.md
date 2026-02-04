@@ -2,7 +2,7 @@
 
 Send beautiful **GitLab-style** commit notification emails for your GitHub repositories. When developers push code, your team receives emails showing actual code changes with green/red highlighting - just like GitLab does!
 
-![Email Preview](https://via.placeholder.com/800x400?text=Email+Preview+Screenshot)
+![Email Preview](screenshot.png)
 
 ## 🎯 Problem Solved
 
